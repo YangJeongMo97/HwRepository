@@ -8,6 +8,8 @@ public class A {
 		C c = new C();
 		b.callB();
 		c.callC();
+		
+		System.out.println("This line is created master branch.");
 	}
 
 }
